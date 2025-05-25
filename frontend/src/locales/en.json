@@ -1,0 +1,71 @@
+{
+    "home": "Home",
+    "myCourses": "My Courses",
+    "browse": "Browse",
+    "certificates": "Certificates",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "searchPlaceholder": "Search for a course...",
+    "about": "About",
+    "login": {
+  "imageAlt": "Login image",
+  "hello": "Hello!",
+  "signInToAccount": "Sign in to your account",
+  "username": "Username",
+  "password": "Password",
+  "rememberMe": "Remember me",
+  "forgotPassword": "Forgot password?",
+  "signIn": "SIGN IN",
+  "noAccount": "Don't have an account?",
+  "create": "Create",
+  "welcomeBack": "Welcome Back!",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra magna nisl, at posuere sem dapibus sed."
+},
+
+  "Landing": {
+    "welcomeMessage": "Welcome to your E‑Learn platform!",
+    "description": "Discover thousands of online courses, wherever you are.",
+    "startNow": "Start Now",
+    "recentCourses": "Recent Courses"
+  },
+  
+    "Footer": {
+      "followUs": "Follow us",
+      "downloadOn": "Download on the",
+      "appStore": "App Store",
+      "getItOn": "Get it on",
+      "googlePlay": "Google Play",
+      "stayInformed": "Stay informed",
+      "namePlaceholder": "Name",
+      "emailPlaceholder": "Email institutionnal",
+      "acceptTerms": "I accept the",
+      "termsAndConditions": "terms and conditions",
+      "subscribe": "Subscribe to the newsletter",
+      "allRightsReserved": "All rights reserved"
+    },
+   
+      "signup": {
+        "welcomeTitle": "Welcome Back!",
+        "welcomeText": "To keep connected with us, please login with your personal info",
+        "signinButton": "SIGN IN",
+        "header": "Join over 10 Million Creative Freelancers from around the world",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed diam nonummy nibh euismod tincidunt.",
+        "emailPlaceholder": "youmail@gmail.com",
+        "usernamePlaceholder": "Username",
+        "passwordPlaceholder": "Password",
+        "terms": "I agree to all statements included in Terms of Use",
+        "signupButton": "SIGN UP",
+        "alreadyAccount": "Already have an account?",
+        "signinLink": "Sign In",
+        "forgot": "Forgot your password?",
+        "reset": "Reset Password"
+      }
+  
+    
+  
+  
+
+
+
+  }
+  

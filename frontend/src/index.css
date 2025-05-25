@@ -1,0 +1,156 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes marquee2 {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.animate-marquee {
+  animation: marquee 30s linear infinite;
+}
+
+.animate-marquee2 {
+  animation: marquee2 30s linear infinite;
+}
+
+/* Optional: Pause animation on hover */
+.animate-marquee:hover,
+.animate-marquee2:hover {
+  animation-play-state: paused;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  @apply transition-colors duration-300;
+}
+
+.dark {
+  @apply bg-gray-900;
+  color-scheme: dark;
+}
+
+.dark body {
+  @apply bg-gray-900 text-gray-100;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Global dark mode overrides */
+.dark button:not(.primary-btn):not(.sidebar-btn) {
+  @apply text-gray-200 border-gray-700;
+}
+
+.dark input, .dark select, .dark textarea {
+  @apply bg-gray-800 border-gray-700 text-white;
+}
+
+.dark .card {
+  @apply bg-gray-800 border-gray-700;
+}
+
+/* Toggle Switch Improvements for Dark Mode */
+.dark .peer-focus:ring-2 {
+  @apply ring-indigo-600;
+}
+
+.dark .peer-focus:ring-indigo-300 {
+  @apply ring-indigo-600;
+}
+
+.dark .bg-gray-200 {
+  @apply bg-gray-700;
+}
+
+.dark .border-gray-300 {
+  @apply border-gray-600;
+}
+
+/* Fix for toggle switches in dark mode */
+.dark input.peer + div.bg-gray-200 {
+  @apply bg-gray-700;
+}
+
+.dark input.peer + div::after {
+  @apply border-gray-600 bg-gray-300;
+}
+
+.dark input.peer:checked + div {
+  @apply bg-indigo-600;
+}
+
+.dark input.peer:checked + div::after {
+  @apply bg-white;
+}
+
+/* Fix for tabs and interactive elements */
+.dark .bg-indigo-50 {
+  @apply bg-indigo-900/20;
+}
+
+.dark .hover\:bg-indigo-200:hover {
+  @apply hover:bg-indigo-800;
+}
+
+.dark .text-indigo-700 {
+  @apply text-indigo-300;
+}
+
+.dark .bg-green-100 {
+  @apply bg-green-900/30;
+}
+
+.dark .hover\:bg-green-200:hover {
+  @apply hover:bg-green-800;
+}
+
+.dark .text-green-700 {
+  @apply text-green-400;
+}
+
+/* Footer specific dark mode overrides */
+.dark footer input[type="text"],
+.dark footer input[type="email"] {
+  @apply bg-gray-800 border-gray-700 text-white;
+}
+
+.dark footer input[type="checkbox"] {
+  @apply accent-indigo-500;
+}
+
+/* Bottom section dark mode fixes */
+.dark main {
+  @apply bg-gray-900;
+}
+
+.dark .bg-white {
+  @apply bg-gray-800 text-white;
+}
+
+/* Fix for bottom card sections that might not be properly styled */
+.dark [class*="Card"] .bg-white,
+.dark main > div > div > [class*="bg-white"] {
+  @apply bg-gray-800 border-gray-700;
+}

@@ -1,0 +1,98 @@
+{
+  "landing": {
+    "hero": {
+      "title": "Transform Your Future with",
+      "brand": "Learn-H2C",
+      "description": "Discover a world of knowledge with our comprehensive learning platform. Start your journey to success today.",
+      "getStarted": "Get Started",
+      "signIn": "Sign In",
+      "studentImageAlt": "Student Learning"
+    },
+    "partnership": {
+      "title": "Our Establishment"
+    },
+    "about": {
+      "title": "About Learn-H2C",
+      "campusImageAlt": "University Campus",
+      "paragraph1": "Learn-H2C is an innovative platform developed by Hassan II University of Casablanca, aiming to transform the online learning experience for our students.",
+      "paragraph2": "Our platform combines UH2C's academic excellence with the most advanced educational technologies, allowing our students to access quality educational content anytime, anywhere.",
+      "paragraph3": "We offer a wide range of courses in various disciplines, developed by our expert professors and perfectly adapted to the needs of our student community.",
+      "paragraph4": "Our goal is to democratize higher education while maintaining the level of excellence that makes UH2C's reputation."
+    },
+    "testimonials": {
+      "title": "What Our Students Say",
+      "student1": {
+        "name": "Amine el Khattabi",
+        "school": "ENSEM Casablanca",
+        "text": "The platform is very intuitive and the courses are of high quality. I have made great progress in computer science thanks to Learn-H2C."
+      },
+      "student2": {
+        "name": "Mohammed Alami",
+        "school": "FST Mohammedia",
+        "text": "The instructors are very competent and always available to answer our questions. An excellent learning experience."
+      },
+      "student3": {
+        "name": "Sanaa Amrani",
+        "school": "FSJES Casablanca",
+        "text": "I particularly appreciate the flexibility of the platform. I can learn at my own pace while following my main studies."
+      }
+    }
+  },
+  "navbar": {
+    "home": "Home",
+    "myCourses": "My Courses",
+    "browse": "Browse",
+    "certificates": "Certificates",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "searchPlaceholder": "Search for a course...",
+    "about": "About",
+    "partnership": "Establishment",
+    "contact": "Contact"
+  },
+  "footer": {
+    "followUs": "Follow us",
+    "downloadOn": "Download on the",
+    "appStore": "App Store",
+    "getItOn": "Get it on",
+    "googlePlay": "Google Play",
+    "stayInformed": "Stay informed",
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "Email",
+    "acceptTerms": "I accept the",
+    "termsAndConditions": "terms and conditions",
+    "subscribe": "Subscribe to the newsletter",
+    "allRightsReserved": "All rights reserved"
+  },
+  "authNavbar": {
+    "backToHome": "Back to Home"
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "welcomeBack": "Welcome Back!",
+      "description": "Sign in to your account to access your courses",
+      "email": "Email",
+      "password": "Password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot password?",
+      "signIn": "Sign In",
+      "noAccount": "Don't have an account?",
+      "createAccount": "Create account"
+    },
+    "signup": {
+      "title": "Sign Up",
+      "welcome": "Welcome!",
+      "description": "Create your account to start learning",
+      "fullName": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "acceptTerms": "I accept the",
+      "termsAndConditions": "terms and conditions",
+      "signUp": "Sign Up",
+      "haveAccount": "Already have an account?",
+      "signIn": "Sign In"
+    }
+  }
+} 

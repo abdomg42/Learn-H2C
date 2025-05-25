@@ -1,0 +1,63 @@
+{
+  "home": "الرئيسية",
+  "myCourses": "دوراتي",
+  "browse": "تصفح",
+  "certificates": "شهادات",
+  "signIn": "تسجيل الدخول",
+  "signUp": "إنشاء حساب",
+  "searchPlaceholder": "ابحث عن دورة...",
+  "about": "حول",
+  "login": {
+    "imageAlt": "صورة تسجيل الدخول",
+    "hello": "مرحبًا!",
+    "signInToAccount": "قم بتسجيل الدخول إلى حسابك",
+    "username": "اسم المستخدم",
+    "password": "كلمة المرور",
+    "rememberMe": "تذكرني",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "signIn": "تسجيل الدخول",
+    "noAccount": "ليس لديك حساب؟",
+    "create": "إنشاء",
+    "welcomeBack": "مرحبًا بعودتك!",
+    "description": "لوريم إيبسوم هو نص شكلي يستخدم في صناعة النشر. فَسِد فهُو نص لا معنى له."
+  },
+
+    "Landing": {
+      "welcomeMessage": "مرحبًا بك في منصتك E‑Learn!",
+      "description": "اكتشف آلاف الدورات التدريبية عبر الإنترنت، أينما كنت.",
+      "startNow": "ابدأ الآن",
+      "recentCourses": "الدورات الأخيرة"
+    },
+    "Footer": {
+    "followUs": "تابعنا",
+    "downloadOn": "تحميل على",
+    "appStore": "متجر التطبيقات",
+    "getItOn": "احصل عليه على",
+    "googlePlay": "جوجل بلاي",
+    "stayInformed": "ابق على اطلاع",
+    "namePlaceholder": "الاسم",
+    "emailPlaceholder": "البريد الإلكتروني",
+    "acceptTerms": "أوافق على",
+    "termsAndConditions": "الشروط والأحكام",
+    "subscribe": "الاشتراك في النشرة الإخبارية",
+    "allRightsReserved": "جميع الحقوق محفوظة"
+  },
+  "signup": {
+    "welcomeTitle": "مرحبًا بعودتك!",
+    "welcomeText": "للبقاء على اتصال معنا، يرجى تسجيل الدخول بمعلوماتك الشخصية",
+    "signinButton": "تسجيل الدخول",
+    "header": "انضم إلى أكثر من 10 ملايين مستقل مبدع حول العالم",
+    "description": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسيسينغ إليت. سيد ديام نونمي nibh euismod tincidunt.",
+    "emailPlaceholder": "بريدك الإلكتروني",
+    "usernamePlaceholder": "اسم المستخدم",
+    "passwordPlaceholder": "كلمة المرور",
+    "terms": "أوافق على جميع الشروط المذكورة في شروط الاستخدام",
+    "signupButton": "إنشاء حساب",
+    "alreadyAccount": "لديك حساب بالفعل؟",
+    "signinLink": "تسجيل الدخول",
+    "forgot": "نسيت كلمة المرور؟",
+    "reset": "إعادة تعيين كلمة المرور"
+  }
+
+  
+}

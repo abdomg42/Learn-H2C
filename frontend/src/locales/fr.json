@@ -1,0 +1,64 @@
+{
+    "home": "Accueil",
+    "myCourses": "Mes cours",
+    "browse": "Parcourir",
+    "certificates": "Certificats",
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "searchPlaceholder": "Rechercher un cours...",
+    "about": "À propos",
+
+    "login": {
+  "imageAlt": "Image de connexion",
+  "hello": "Bonjour !",
+  "signInToAccount": "Connectez-vous à votre compte",
+  "username": "Nom d'utilisateur",
+  "password": "Mot de passe",
+  "rememberMe": "Se souvenir de moi",
+  "forgotPassword": "Mot de passe oublié ?",
+  "signIn": "Se connecter",
+  "noAccount": "Vous n'avez pas de compte ?",
+  "create": "Créer",
+  "welcomeBack": "Bon retour !",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra magna nisl, at posuere sem dapibus sed."
+},
+"Landing": {
+    "welcomeMessage": "Bienvenue sur votre plateforme E‑Learn !",
+    "description": "Découvrez des milliers de cours en ligne, où que vous soyez.",
+    "startNow": "Commencer maintenant",
+    "recentCourses": "Cours récents"
+  },
+  "Footer": {
+    "followUs": "Suivez-nous",
+    "downloadOn": "Téléchargez sur",
+    "appStore": "App Store",
+    "getItOn": "Obtenez-le sur",
+    "googlePlay": "Google Play",
+    "stayInformed": "Restez informé",
+    "namePlaceholder": "Nom",
+    "emailPlaceholder": "Email institutionnal",
+    "acceptTerms": "J’accepte les",
+    "termsAndConditions": "termes et conditions",
+    "subscribe": "S’inscrire à la newsletter",
+    "allRightsReserved": "Tous droits réservés"
+  },
+  "signup": {
+    "welcomeTitle": "Bienvenue !",
+    "welcomeText": "Pour rester connecté avec nous, veuillez vous connecter avec vos informations personnelles",
+    "signinButton": "SE CONNECTER",
+    "header": "Rejoignez plus de 10 millions de freelances créatifs dans le monde entier",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed diam nonummy nibh euismod tincidunt.",
+    "emailPlaceholder": "votreemail@gmail.com",
+    "usernamePlaceholder": "Nom d'utilisateur",
+    "passwordPlaceholder": "Mot de passe",
+    "terms": "J'accepte toutes les conditions d'utilisation",
+    "signupButton": "S'INSCRIRE",
+    "alreadyAccount": "Vous avez déjà un compte ?",
+    "signinLink": "Connexion",
+    "forgot": "Mot de passe oublié ?",
+    "reset": "Réinitialiser le mot de passe"
+  }
+
+
+  }
+  

@@ -1,0 +1,99 @@
+{
+  "landing": {
+    "hero": {
+      "title": "Transformez Votre Avenir avec",
+      "brand": "Learn-H2C",
+      "description": "Découvrez un monde de connaissances avec notre plateforme d'apprentissage complète. Commencez votre voyage vers le succès dès aujourd'hui.",
+      "getStarted": "Commencer",
+      "signIn": "Se Connecter",
+      "studentImageAlt": "Étudiant en apprentissage"
+    },
+    "partnership": {
+      "title": "Notre Établissement"
+    },
+    "about": {
+      "title": "À propos de Learn-H2C",
+      "campusImageAlt": "Campus Universitaire",
+      "paragraph1": "Learn-H2C est une plateforme innovante développée par l'Université Hassan II de Casablanca, visant à transformer l'expérience d'apprentissage en ligne pour nos étudiants.",
+      "paragraph2": "Notre plateforme allie l'excellence académique de l'UH2C aux technologies éducatives les plus avancées, permettant à nos étudiants d'accéder à des contenus pédagogiques de qualité en tout temps et en tout lieu.",
+      "paragraph3": "Nous offrons un large éventail de cours dans diverses disciplines, élaborés par nos professeurs experts et parfaitement adaptés aux besoins de notre communauté étudiante.",
+      "paragraph4": "Notre objectif est de démocratiser l'enseignement supérieur tout en préservant le niveau d'excellence qui fait la réputation de l'UH2C."
+    },
+    "testimonials": {
+      "title": "Ce que disent nos étudiants",
+      "student1": {
+        "name": "Amine el Khattabi",
+        "school": "ENSEM Casablanca",
+        "text": "La plateforme est très intuitive et les cours sont de grande qualité. J'ai beaucoup progressé en informatique grâce à Learn-H2C."
+      },
+      "student2": {
+        "name": "Mohammed Alami",
+        "school": "FST Mohammedia",
+        "text": "Les instructeurs sont très compétents et toujours disponibles pour répondre à nos questions. Une excellente expérience d'apprentissage."
+      },
+      "student3": {
+        "name": "Sanaa Amrani",
+        "school": "FSJES Casablanca",
+        "text": "J'apprécie particulièrement la flexibilité de la plateforme. Je peux apprendre à mon rythme tout en suivant mes études principales."
+      }
+    }
+  },
+  "navbar": {
+    "home": "Accueil",
+    "myCourses": "Mes cours",
+    "browse": "Parcourir",
+    "certificates": "Certificats",
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "searchPlaceholder": "Rechercher un cours...",
+    "about": "À propos",
+    "partnership": "Établissement",
+    "contact": "Contact"
+  },
+  "footer": {
+    "followUs": "Suivez-nous",
+    "downloadOn": "Téléchargez sur",
+    "appStore": "App Store",
+    "getItOn": "Obtenez-le sur",
+    "googlePlay": "Google Play",
+    "stayInformed": "Restez informé",
+    "namePlaceholder": "Nom",
+    "emailPlaceholder": "Email",
+    "acceptTerms": "J'accepte les",
+    "termsAndConditions": "termes et conditions",
+    "subscribe": "S'inscrire à la newsletter",
+    "allRightsReserved": "Tous droits réservés"
+  },
+  "authNavbar": {
+    "backToHome": "Retour à l'accueil"
+  },
+  "auth": {
+    "login": {
+      "title": "Connexion",
+      "welcomeBack": "Bon retour !",
+      "description": "Connectez-vous à votre compte pour accéder à vos cours",
+      "email": "Email",
+      "password": "Mot de passe",
+      "rememberMe": "Se souvenir de moi",
+      "forgotPassword": "Mot de passe oublié ?",
+      "signIn": "Se connecter",
+      "signingIn": "Connexion en cours...",
+      "noAccount": "Vous n'avez pas de compte ?",
+      "createAccount": "Créer un compte"
+    },
+    "signup": {
+      "title": "Inscription",
+      "welcome": "Bienvenue !",
+      "description": "Créez votre compte pour commencer à apprendre",
+      "fullName": "Nom complet",
+      "email": "Email",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "acceptTerms": "J'accepte les",
+      "termsAndConditions": "termes et conditions",
+      "signUp": "S'inscrire",
+      "haveAccount": "Vous avez déjà un compte ?",
+      "signIn": "Se connecter"
+    }
+  }
+} 
