@@ -116,16 +116,3 @@ The platform supports multiple languages through i18next. To add new translation
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Authors
-
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- Django team for the robust backend framework
-- All contributors who have helped shape this project 
